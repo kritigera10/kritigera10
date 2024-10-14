@@ -31,6 +31,9 @@ I’m an asipiring software developer with a strong focus on **Java** and full-s
 ![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-4CAF50?style=for-the-badge&logo=algolia&logoColor=white)
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Operating System](https://img.shields.io/badge/Operating%20System-3C3F41?style=for-the-badge&logo=linux&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-0074CC?style=for-the-badge&logo=c&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-007ACC?style=for-the-badge&logo=database&logoColor=white)
 
 
 ---
