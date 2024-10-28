@@ -46,4 +46,5 @@ I’m an asipiring software developer with a strong focus on **Java** and full-s
 ---
 
 ## 📫 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/kritigera10)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritigera10)
+
